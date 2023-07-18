@@ -1,6 +1,6 @@
 window.CUSDIS_LOCALE=  {
   powered_by: 'Kommentare powered by Cusdis',
-  post_comment: 'Kommentare',
+  post_comment: 'Abschicken',
   loading: 'Lädt',
 
   // comment
@@ -16,5 +16,5 @@ window.CUSDIS_LOCALE=  {
   nickname_is_required: 'Spitzname ist erforderlich',
 
   comment_has_been_sent:
-    'Ihr Kommentar wurde abgeschickt. Bitte warten Sie auf die Bestätigung.',
+    'Dein Kommentar wurde abgeschickt. Bitte warte auf die Bestätigung.',
 }
